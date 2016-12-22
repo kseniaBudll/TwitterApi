@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Groovy-Dradle.iml" filepath="$PROJECT_DIR$/.idea/modules/Groovy-Dradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Groovy-Dradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Groovy-Dradle_main.iml" group="Groovy-Dradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Groovy-Dradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Groovy-Dradle_test.iml" group="Groovy-Dradle" />
+    </modules>
+  </component>
+</project>
